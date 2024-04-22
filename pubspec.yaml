@@ -1,6 +1,6 @@
 name: ks_select_dropdown
 description: Single and Multiple Select Dropdown in Flutter
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/SowatKheang/ks_select_dropdown
 
 environment:
