@@ -101,7 +101,7 @@ class _MyHomePageState extends State<MyHomePage> {
               label: 'Choose option ...',
               dropdownTitle: 'Multi Select Option',
               ksDropDownEnum: KSDropDownEnum.multiple,
-              // ksDropDownContentModeEnum: KSDropDownContentModeEnum.wrap, ///* Default: KSDropDownContentModeEnum.list
+              ksDropDownContentModeEnum: KSDropDownContentModeEnum.wrap, ///* Default: KSDropDownContentModeEnum.list
               // showSearch: true, ///* Default: showSearch = false
             )
           ],
