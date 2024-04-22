@@ -1,7 +1,7 @@
 name: ks_select_dropdown
 description: A new Flutter package project for creating select dropdown.
 version: 0.0.1
-homepage:
+homepage: https://github.com/SowatKheang/ks_select_dropdown
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
