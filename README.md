@@ -173,9 +173,9 @@ class _MyHomePageState extends State<MyHomePage> {
 <img src="https://raw.githubusercontent.com/SowatKheang/ks_select_dropdown/assets/imgs/img7.png" width="200px" height="400px" />
 
 #### Example Screens with search
-[![Demo 1](https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img2.png)](https://github.com/SowatKheang/ks_select_dropdown/assets/42835035/c47cefa8-1c0d-4d3c-9298-8a0a17eebb53)
+[![Demo 1](https://github.com/SowatKheang/ks_select_dropdown/assets/42835035/c47cefa8-1c0d-4d3c-9298-8a0a17eebb53)](https://github.com/SowatKheang/ks_select_dropdown/assets/42835035/c47cefa8-1c0d-4d3c-9298-8a0a17eebb53)
 
-[![Demo 2](https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img5.png)](https://github.com/SowatKheang/ks_select_dropdown/assets/42835035/95504168-34d5-4e28-b19b-a9999ac24ce1)
+[![Demo 2](https://github.com/SowatKheang/ks_select_dropdown/assets/42835035/95504168-34d5-4e28-b19b-a9999ac24ce1)](https://github.com/SowatKheang/ks_select_dropdown/assets/42835035/95504168-34d5-4e28-b19b-a9999ac24ce1)
 
 ### Community Support
 
