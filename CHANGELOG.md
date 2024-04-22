@@ -2,5 +2,5 @@
 - Flutter Version 3.7.5
 - Minimum Dart Version 2.19.2
 
-## 0.0.1
+## 0.0.2
 - Update Readme
