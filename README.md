@@ -160,17 +160,17 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 
 #### Example Screens
-<img src="imgs/img1.png" width="200px" height="400px" />
+<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img1.png" width="200px" height="400px" />
 
 #### Example Single Select Screens
-<img src="imgs/img2.png" width="200px" height="400px" />
-<img src="imgs/img3.png" width="200px" height="400px" />
-<img src="imgs/img4.png" width="200px" height="400px" />
+<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img2.png" width="200px" height="400px" />
+<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img3.png" width="200px" height="400px" />
+<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img4.png" width="200px" height="400px" />
 
 #### Example Multiple Select Screens
-<img src="imgs/img5.png" width="200px" height="400px" />
-<img src="imgs/img6.png" width="200px" height="400px" />
-<img src="imgs/img7.png" width="200px" height="400px" />
+<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img5.png" width="200px" height="400px" />
+<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img6.png" width="200px" height="400px" />
+<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img7.png" width="200px" height="400px" />
 
 #### Example Screens with search
 
