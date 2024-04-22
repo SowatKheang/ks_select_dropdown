@@ -160,17 +160,17 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 
 #### Example Screens
-<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img1.png" width="200px" height="400px" />
+<img src="https://raw.githubusercontent.com/SowatKheang/ks_select_dropdown/assets/imgs/img1.png" width="200px" height="400px" />
 
 #### Example Single Select Screens
-<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img2.png" width="200px" height="400px" />
-<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img3.png" width="200px" height="400px" />
-<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img4.png" width="200px" height="400px" />
+<img src="https://raw.githubusercontent.com/SowatKheang/ks_select_dropdown/assets/imgs/img2.png" width="200px" height="400px" />
+<img src="https://raw.githubusercontent.com/SowatKheang/ks_select_dropdown/assets/imgs/img3.png" width="200px" height="400px" />
+<img src="https://raw.githubusercontent.com/SowatKheang/ks_select_dropdown/assets/imgs/img4.png" width="200px" height="400px" />
 
 #### Example Multiple Select Screens
-<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img5.png" width="200px" height="400px" />
-<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img6.png" width="200px" height="400px" />
-<img src="https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img7.png" width="200px" height="400px" />
+<img src="https://raw.githubusercontent.com/SowatKheang/ks_select_dropdown/assets/imgs/img5.png" width="200px" height="400px" />
+<img src="https://raw.githubusercontent.com/SowatKheang/ks_select_dropdown/assets/imgs/img6.png" width="200px" height="400px" />
+<img src="https://raw.githubusercontent.com/SowatKheang/ks_select_dropdown/assets/imgs/img7.png" width="200px" height="400px" />
 
 #### Example Screens with search
 [![Demo 1](https://github.com/SowatKheang/ks_select_dropdown/blob/assets/imgs/img2.png)](https://github.com/SowatKheang/ks_select_dropdown/assets/42835035/c47cefa8-1c0d-4d3c-9298-8a0a17eebb53)
