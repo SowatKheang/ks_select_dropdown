@@ -173,13 +173,10 @@ class _MyHomePageState extends State<MyHomePage> {
 <img src="imgs/img7.png" width="200px" height="400px" />
 
 #### Example Screens with search
-<video width="200px" height="400px" controls>
-  <source src="imgs/search1.mov" type="video/mp4">
-</video>
 
-<video width="200px" height="400px" controls>
-  <source src="imgs/search2.mov" type="video/mp4">
-</video>
+https://github.com/SowatKheang/ks_select_dropdown/assets/42835035/c47cefa8-1c0d-4d3c-9298-8a0a17eebb53
+
+https://github.com/SowatKheang/ks_select_dropdown/assets/42835035/95504168-34d5-4e28-b19b-a9999ac24ce1
 
 ### Community Support
 
