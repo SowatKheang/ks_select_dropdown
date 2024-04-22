@@ -1,11 +1,9 @@
-
 import 'package:flutter/material.dart';
 
 ///
 /// [KSDropDownColorHelper]
 ///
 class KSDropDownColorHelper {
-
   static const Color transparent = Colors.transparent;
 
   /// [WHITE]
@@ -47,5 +45,4 @@ class KSDropDownColorHelper {
   static const Color grey350 = Color(0xFFD6D6D6);
   static const Color grey400 = Color(0xFFBDBDBD);
   static const Color grey600 = Color(0xFF757575);
-
 }

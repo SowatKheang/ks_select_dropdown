@@ -5,7 +5,7 @@
 
 ```yaml
 dependencies:
-  ks_select_dropdown: ^0.0.1
+  ks_select_dropdown: ^0.0.4
 ```
 ## Usage
 
